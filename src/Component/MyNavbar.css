@@ -1,0 +1,12 @@
+.navbar{
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+
+.navLink{
+    color: #fff !important;
+}
+
+.navLink:hover{
+    color: red;
+}

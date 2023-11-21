@@ -1,0 +1,14 @@
+.card{
+    color: #fff;
+}
+
+.card1:hover {
+    transform: translate(0px, -15px);
+    background: #000 !important;
+}
+
+.featureicon{
+    font-size: 23px;
+    color: red;
+    margin-bottom: 10px !important;
+}

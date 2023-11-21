@@ -1,0 +1,15 @@
+.nav{
+    background-color: rgb(9, 9, 9);
+}
+
+.nav .link{
+    color: #fff;
+    padding: 15px 95px;
+    text-align: justify !important;
+    text-decoration: none;
+}
+
+.nav .link:hover{
+    border: 1px solid red;
+    color: #fff;
+}
